@@ -10,18 +10,18 @@
 
 ## ➤ Menu:
 
-* [➤ Description]()
-* [➤ Resources]()
-* [➤ General]()
-* [➤ Requirements]()
-* [➤ Tasks]()
-* [➤ Author]()
+* [➤ Description](https://github.com/amandinekemp/holbertonschool-web_front_end/tree/main/html_advanced#-description)
+* [➤ Resources](https://github.com/amandinekemp/holbertonschool-web_front_end/tree/main/html_advanced#-resources)
+* [➤ General](https://github.com/amandinekemp/holbertonschool-web_front_end/tree/main/html_advanced#-general)
+* [➤ Requirements](https://github.com/amandinekemp/holbertonschool-web_front_end/tree/main/html_advanced#-requirements)
+* [➤ Tasks](https://github.com/amandinekemp/holbertonschool-web_front_end/tree/main/html_advanced#-tasks)
+* [➤ Author](https://github.com/amandinekemp/holbertonschool-web_front_end/tree/main/html_advanced#-author)
 
 ----------
 
 ## ➤ Description:
 
-
+Advanced HTML development refers to the advanced use of HTML (HyperText Markup Language) to create interactive and dynamic web pages.
 
 ----------
 
@@ -80,7 +80,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ----------
 
-## ➤ Tasks:
+<details>
+<summary>➤ Tasks</summary>
 
 ### 0. Create your first webpage
 mandatory
@@ -1074,6 +1075,8 @@ Repo:
 * GitHub repository: holbertonschool-web_front_end
 * Directory: html_advanced
 * File: styleguide.html
+
+</details>
 
 ## ➤ Author:
 
