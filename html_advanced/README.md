@@ -832,7 +832,7 @@ create a new section
 in the section create a header, in the header add a level 2 heading with the text Table
 after the header, create a table, reproduce in HTML the visual below
 
-![star wars Trilogy Data](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240311%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240311T081103Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=489101dc298a8dcb36e0fd72d1b0c413f9ca4df26d41c6e1b3c5227fc09908fe)
+![star wars Trilogy Data](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240312%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240312T145536Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9f5231388eb5ed9a9336b3d5708cb4c57fc95b171b3fcd3c465b76ac455aba91)
 
 The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
 
