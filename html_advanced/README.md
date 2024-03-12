@@ -84,7 +84,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 <summary>➤ Tasks</summary>
 
 ### 0. Create your first webpage
-mandatory
+
 Create your first HTML file 0-index.html with:
 
 * Add the doctype on the first line (without any comment)
@@ -99,9 +99,8 @@ Repo:
 * Directory: html_advanced
 * File: 0-index.html
   
-0/3 pts
 ### 1. Structure your webpage
-mandatory
+
 Copy the content of 0-index.html into 1-index.html
 
 Create the head and body sections
@@ -115,9 +114,8 @@ Repo:
 * Directory: html_advanced
 * File: 1-index.html
   
-0/3 pts
-2. The head - meta charset, viewport, title, description, favicons
-mandatory
+### 2. The head - meta charset, viewport, title, description, favicons
+
 Copy the content of 1-index.html into 2-index.html
 
 <p align="center">
