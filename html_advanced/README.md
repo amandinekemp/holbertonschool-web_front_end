@@ -68,7 +68,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ➤ Sitemap of the project:
 
 <p align="center">
-    <img [Sitemap of the project] src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240311%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240311T081102Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4fd0efd2f497a3d57840176af7fd2b263f5931a1c7966e4f48a8f2dfc6dba3fd">
+    <img [Sitemap of the project] src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240312%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240312T145536Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=51ca659600e682623021cac7b83368aebe0340f31803780c7cff87e5ba975e45">
+</p>
+
+## ➤ Wireframe of Techium project
+
+<p align="center">
+    <img [Sitemap of the project] src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240312%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240312T145536Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f3844b00615422899a0496297d48e50f0bb1c22b7e7acd4243e9420b155f0d44">
 </p>
 
 
@@ -114,7 +120,7 @@ mandatory
 Copy the content of 1-index.html into 2-index.html
 
 <p align="center">
-    <img [Advanced HTML] src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240311%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240311T081102Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3bd7354b9fa1b9f27f03c15d9cece8a2e1b9fb7d94800ee49b30f461904d485a">
+    <img [Advanced HTML] src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240312%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240312T145536Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c5be58e7758df9027d631ac5d5bcf0862a25d7beee820440b416df7d07c2cb78">
 </p>
 
 Meta charset:
