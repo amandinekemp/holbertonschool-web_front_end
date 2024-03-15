@@ -813,7 +813,7 @@ Copy the content of 30-styleguide.html into 32-styleguide.html
   * in the section create a header and inside it add a level 2 heading with the text Typography
   * after the header create a div, inside the div add this text with the correct HTML tag: 320 Stewart Avenue, Unit 12 (line break) New York City NY 10001, the city, state, and postal code should be on a separate line
   * create another div, in the new div nest this code block using the pre HTML tag:
-  
+
  <code>
      <h2>My title</h2>
      <p>Proin lacus turpis, feugiat sit amet sollicitudin non, volutpat in libero. Aenean hendrerit ultrices nulla ac lobortis. Vestibulum consectetur nibh vel ante rhoncus faucibus.</p>
@@ -878,7 +878,7 @@ Repo:
   
 ### 35. Replace text logo with image logo
 
-![Techium](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240311%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240311T081103Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=da2c2a811efde4268fd3393167a1ff384fc947bef93c1c5ec12de6a689468a7d)
+![Techium](https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/06f32e89f2a82582234e.png)
 
 Copy the content of 31-index.html into 35-index.html
 
