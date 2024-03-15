@@ -839,7 +839,7 @@ create a new section
 in the section create a header, in the header add a level 2 heading with the text Table
 after the header, create a table, reproduce in HTML the visual below
 
-![star wars Trilogy Data](https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/%23%23%2333.%20Table.jpg)
+![star wars Trilogy Data](https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/1348f88f2d78a5dee5d0.jpg)
 
 The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
 
