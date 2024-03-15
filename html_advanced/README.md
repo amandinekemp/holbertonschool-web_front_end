@@ -813,10 +813,12 @@ Copy the content of 30-styleguide.html into 32-styleguide.html
   * in the section create a header and inside it add a level 2 heading with the text Typography
   * after the header create a div, inside the div add this text with the correct HTML tag: 320 Stewart Avenue, Unit 12 (line break) New York City NY 10001, the city, state, and postal code should be on a separate line
   * create another div, in the new div nest this code block using the pre HTML tag:
+  
  <code>
      <h2>My title</h2>
      <p>Proin lacus turpis, feugiat sit amet sollicitudin non, volutpat in libero. Aenean hendrerit ultrices nulla ac lobortis. Vestibulum consectetur nibh vel ante rhoncus faucibus.</p>
  </code>
+
   * create another div, in the new div add this paragraph of text with the correct HTML tag: Curabitur sit amet turpis cursus massa mollis highlighted. Duis finibus leo massa, eget dapibus erat finibus sed. Aenean condimentum sapien magna, eleifend highlighted mi consequat ut. Cras nec quam sed sapien ultricies highlighted ut sed metus. Each occurrence of the word highlighted should be highlighted.
 
 W3C does not need to pass
