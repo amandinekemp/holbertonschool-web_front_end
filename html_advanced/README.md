@@ -119,7 +119,7 @@ Repo:
 Copy the content of 1-index.html into 2-index.html
 
 <p align="center">
-    <img [Advanced HTML] src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240312%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240312T145536Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c5be58e7758df9027d631ac5d5bcf0862a25d7beee820440b416df7d07c2cb78">
+    <img [Advanced HTML] src="https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/%23%23%232.%20The%20head%20-%20meta%20charset%2C%20viewport%2C%20title%2C%20description%2C%20favicons.jpg">
 </p>
 
 Meta charset:
@@ -837,7 +837,7 @@ create a new section
 in the section create a header, in the header add a level 2 heading with the text Table
 after the header, create a table, reproduce in HTML the visual below
 
-![star wars Trilogy Data](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240312%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240312T145536Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9f5231388eb5ed9a9336b3d5708cb4c57fc95b171b3fcd3c465b76ac455aba91)
+![star wars Trilogy Data](https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/%23%23%2333.%20Table.jpg)
 
 The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
 
