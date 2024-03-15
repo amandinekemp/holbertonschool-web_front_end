@@ -119,7 +119,7 @@ Repo:
 Copy the content of 1-index.html into 2-index.html
 
 <p align="center">
-    <img [Advanced HTML] src="https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/%23%23%232.%20The%20head%20-%20meta%20charset%2C%20viewport%2C%20title%2C%20description%2C%20favicons.jpg">
+    <img [Advanced HTML] src="https://github.com/amandinekemp/holbertonschool-web_front_end/blob/main/html_advanced/images/2ba3a0d7878316de5aaa.jpg">
 </p>
 
 Meta charset:
